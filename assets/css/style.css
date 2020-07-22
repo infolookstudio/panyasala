@@ -244,7 +244,7 @@ img {
 	color: #3e5369;
 }
 .nav-cat-menu li:hover > a {
-	color: #ff5001;
+	color: #00657F;
 }
 
 .nav-cat-wrap {
@@ -348,7 +348,7 @@ img {
 	padding-right: 5px;
 }
 .add-to-cart:hover {
-	background: #ff5001;
+	background: #00657F;
 	border-color: transparent;
 	color: #fff;
 }
@@ -358,13 +358,13 @@ img {
 	margin-bottom: 5px;
 }
 .product-price {
-	color: #ff4f00;
+	color: #00657F;
 	font-weight: 600;
 	font-size: 18px;
 }
 
 .product-ttile:hover {
-	color: #ff4f00;
+	color: #00657F;
 }
 
 /* footer css */
@@ -394,7 +394,7 @@ img {
 }
 
 .social-links a:hover {
-	background: #ff4f00;
+	background: #00657F;
 	color: #fff;
 	border-color: transparent;
 }
@@ -413,7 +413,7 @@ img {
 
 .footer-widget li a:hover,
 .backto-top:hover {
-	color: #ff4f00;
+	color: #FED611;
 }
 
 .widget-title {
@@ -575,7 +575,7 @@ img {
 
 /* woo sidebar css */
 .sidebar-widget .widget-title {
-	color: #ff5001;
+	color: #00657F;
 	font-size: 16px;
 	border-bottom: 1px solid #ddd;
 	padding-bottom: 10px;
@@ -604,7 +604,7 @@ img {
 }
 
 .sidebar-widget li a:hover {
-	color: #ff5001;
+	color: #00657F;
 }
 
 .short-wrapper {
@@ -631,12 +631,15 @@ img {
 .site-btn {
 	display: inline-block;
 	padding: 10px 30px;
-	background: #ff5001;
+	background: #00657F;
 	border-radius: 5px;
 	color: #fff;
 }
 .site-btn.two {
-	background: #FF9A00;
+	background: #112942;
+}
+.site-btn.two:hover {
+	background: #00657F;
 }
 
 .site-btn:hover {
@@ -655,7 +658,7 @@ img {
 }
 
 .single-product-thumb .nav a.active {
-	border: 1px solid #ff4f00;
+	border: 1px solid #00657F;
 }
 
 .single-product-thumb .tab-content {
@@ -687,13 +690,13 @@ img {
 }
 
 .single-product-content .product-sku {
-	color: #ff4f00;
+	color: #00657F;
 	font-weight: 600;
 	font-size: 14px;
 }
 
 .single-product-content .product-price .sale-price {
-	color: #ff4f00;
+	color: #00657F;
 }
 
 .single-product-content .product-price {
@@ -712,7 +715,7 @@ img {
 .quantity-details .shipping-info-top {
 	display: block;
 	font-size: 14px;
-	color: #ff4f00;
+	color: #00657F;
 }
 
 .quantity-details .shipping-info {
@@ -796,7 +799,7 @@ img {
 }
 
 .product-tab ul a.active {
-	color: #ff5001;
+	color: #00657F;
 }
 
 .product-tab ul a {
@@ -806,7 +809,7 @@ img {
 }
 
 .product-tab ul a:hover {
-    color: #ff5001;
+    color: #00657F;
 }
 
 .releted-product .title {
@@ -857,11 +860,11 @@ img {
 }
 
 .cart-item .product-remove {
-	color: #ff4f00 !important;
+	color: #00657F !important;
 }
 
 td.product-remove a {
-	color: #ff4f00;
+	color: #00657F;
 }
 
 .cart-items .product-name {
@@ -970,7 +973,7 @@ td.product-remove {
 .order-summery form button {
 	padding: 10px 20px;
 	color: #fff;
-	background: #ff4f00;
+	background: #00657F;
 	border: none;
 	border-radius: 5px;
 	margin-left: 10px;
@@ -994,13 +997,13 @@ td.product-remove {
 .grand-total li {
 	display: flex;
 	justify-content: space-between;
-	color: #ff4f00;
+	color: #00657F;
 	font-weight: 700;
 }
 
 .single-cart-top.active .icon,
 .single-cart-top.active .title {
-	color: #ff4f00;
+	color: #00657F;
 }
 
 .shipping-details h4 {
@@ -1217,7 +1220,7 @@ td.product-remove {
 }
 
 .cart-items .qty-plus-minus span:hover {
-    background: #FF4F00;
+    background: #00657F;
     color: #fff;
 }
 
@@ -1334,7 +1337,7 @@ td.product-remove {
 }
 
 .saller-btn {
-    background: #FF9A00;
+    background: #112942;
     color: #fff;
     display: block;
     padding: 8px 15px;
@@ -1349,7 +1352,7 @@ td.product-remove {
 }
 
 .name-star ul li {
-    color: #FF9A00;
+    color: #112942;
     font-size: 12px;
 }
 
@@ -1374,7 +1377,7 @@ td.product-remove {
 .header-top {
     padding: 5px 0;
 }
-.search-by-cat-wrap {position: relative;margin-top: 4px;}
+.search-by-cat-wrap {position: relative;margin-top: 1px;}
 
 .search-by-cat {
     margin-right: 90px;
@@ -1400,12 +1403,12 @@ td.product-remove {
     font-size: 10px;
     font-weight: 600;
     border-radius: 0;
-    color: #FF4F00;
+    color: #00657F;
     z-index: 2;
 }
 
 .section-heading .site-btn.transparent:hover {
-    background: #FEB300;
+    background: #FED611;
     color: #fff;
 }
 
@@ -1457,7 +1460,7 @@ td.product-remove {
     background: #fff;
     display: block;
     font-size: 16px;
-    color: #FF4F00;
+    color: #00657F;
     width: 40px;
     height: 41px;
     text-align: center;
@@ -1476,7 +1479,7 @@ td.product-remove {
 }
 
 .share-wish a:hover {
-    background: #FF4F00;
+    background: #00657F;
     color: #fff;
 }
 
@@ -1690,7 +1693,7 @@ li.mega-menu ul ul li:not(:last-child) {
 }
 
 .main-menu .site-btn:hover {
-    background: #FF4F00;
+    background: #00657F;
 }
 .vendor-widget-wrap .icon {
     text-align: center;
@@ -1699,7 +1702,7 @@ li.mega-menu ul ul li:not(:last-child) {
 
 a.review-ratting {
     display: block;
-    color: #FF4F00;
+    color: #00657F;
     text-decoration: underline;
     font-size: 16px;
     margin-bottom: 15px;
@@ -1773,7 +1776,7 @@ span.followed i {
 	font-weight: 500;
 }
 .user-button .user-menu a:hover {
-	color: #FF4B31;
+	color: #FED611;
 }
 
 .user-button .user-menu li:not(:last-child) a {
